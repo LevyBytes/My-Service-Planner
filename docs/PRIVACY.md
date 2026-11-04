@@ -1,3 +1,6 @@
+---
+title: My Service Planner Privacy Policy
+---
 # My Service Planner Privacy Policy
 
 Effective date: November 4, 2026
